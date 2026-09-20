@@ -43,8 +43,7 @@ Predicting property prices manually is difficult due to wide variations across n
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/PriyanshKesarwani/](https://github.com/PriyanshKesarwani/)<YOUR-REPO-NAME>.git
-   cd <YOUR-REPO-NAME>
+   https://github.com/PriyanshKesarwani/House-Price-Prediction-Tool/blob/main/House_Price_Prediction_live.ipynb
 1.Install required dependencies:
 Bash
 pip install streamlit pandas numpy xgboost scikit-learn
